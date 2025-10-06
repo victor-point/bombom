@@ -50,7 +50,7 @@
                 <div class="w-12 h-12 bg-white rounded-full flex items-center justify-center mr-3 shadow-lg">
                     <span class="text-yellow-500 text-2xl font-bold">A</span>
                 </div>
-                <h1 class="title-font text-2xl text-white">Bimbel TK Ceria</h1>
+                <h1 class="title-font text-2xl text-white">Bimba Victory</h1>
             </div>
             <nav class="hidden md:block">
                 <ul class="flex space-x-6">
@@ -93,7 +93,7 @@
     <!-- Bingkai Foto Section -->
     <section id="galeri" class="py-12 bg-white">
         <div class="container mx-auto px-4">
-            <h2 class="title-font text-3xl text-center text-blue-600 mb-2">Momen Seru di Bimbel TK Ceria</h2>
+            <h2 class="title-font text-3xl text-center text-blue-600 mb-2">Momen Seru di Bimba Victory</h2>
             <p class="text-center text-gray-600 mb-10">Tangkapan kegiatan belajar mengajar yang menyenangkan</p>
             
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -168,7 +168,7 @@
     <section id="daftar" class="py-16 bg-yellow-400">
         <div class="container mx-auto px-4 text-center">
             <h2 class="title-font text-3xl text-white mb-4">Daftarkan Si Kecil Sekarang!</h2>
-            <p class="text-white text-lg mb-8 max-w-2xl mx-auto">Bergabunglah dengan Bimbel TK Ceria untuk pengalaman belajar yang menyenangkan dan bermakna bagi buah hati Anda.</p>
+            <p class="text-white text-lg mb-8 max-w-2xl mx-auto">Bergabunglah dengan Bimba Victory untuk pengalaman belajar yang menyenangkan dan bermakna bagi buah hati Anda.</p>
             
             <form class="max-w-lg mx-auto bg-white p-8 rounded-2xl shadow-lg">
                 <div class="mb-4">
@@ -195,7 +195,7 @@
         <div class="container mx-auto px-4">
             <div class="flex flex-col md:flex-row justify-between items-center">
                 <div class="mb-6 md:mb-0">
-                    <h2 class="title-font text-2xl mb-2">Bimbel TK Ceria</h2>
+                    <h2 class="title-font text-2xl mb-2">Bimba Victory</h2>
                     <p class="text-blue-200">Belajar Seru, Berkembang Optimal</p>
                 </div>
                 <div class="flex space-x-4">
@@ -217,7 +217,7 @@
                 </div>
             </div>
             <div class="border-t border-blue-500 mt-8 pt-8 text-sm text-center text-blue-200">
-                <p>© 2023 Bimbel TK Ceria. All rights reserved.</p>
+                <p>© 2025 Bimba Victory. All rights reserved.</p>
             </div>
         </div>
     </footer>
